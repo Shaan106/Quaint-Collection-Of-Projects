@@ -1,0 +1,10 @@
+/Users/shaanyadav/Desktop/Projects/Quaint-Collection-Of-Projects/Rust/rust_web_scraper/target/debug/deps/libversion_check-43e270a79bdc6c8c.rmeta: /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/shaanyadav/Desktop/Projects/Quaint-Collection-Of-Projects/Rust/rust_web_scraper/target/debug/deps/libversion_check-43e270a79bdc6c8c.rlib: /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/shaanyadav/Desktop/Projects/Quaint-Collection-Of-Projects/Rust/rust_web_scraper/target/debug/deps/version_check-43e270a79bdc6c8c.d: /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs:
+/Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs:
+/Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs:
+/Users/shaanyadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs:
