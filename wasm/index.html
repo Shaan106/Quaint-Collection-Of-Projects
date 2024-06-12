@@ -6,15 +6,13 @@
     <title>WASM Example</title>
 </head>
 <body>
-    <script type="module">
-        import init, { greet } from './pkg/wasm.js';
 
-        async function run() {
-            await init();
-            greet('World');
-        }
+    <script type="module" src="main.js">
 
-        run();
     </script>
+    
+    <p id="change">
+        this text will be changed.
+    </p>
 </body>
 </html>
