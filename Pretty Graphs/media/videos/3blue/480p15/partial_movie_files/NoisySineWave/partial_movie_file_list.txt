@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/shaanyadav/Desktop/Projects/Quaint-Collection-Of-Projects/Pretty Graphs/media/videos/3blue/480p15/partial_movie_files/NoisySineWave/1185818338_2911454249_223132457.mp4'
+file 'file:/Users/shaanyadav/Desktop/Projects/Quaint-Collection-Of-Projects/Pretty Graphs/media/videos/3blue/480p15/partial_movie_files/NoisySineWave/624642324_2921810581_3984631792.mp4'
+file 'file:/Users/shaanyadav/Desktop/Projects/Quaint-Collection-Of-Projects/Pretty Graphs/media/videos/3blue/480p15/partial_movie_files/NoisySineWave/624642324_2999291583_837466721.mp4'

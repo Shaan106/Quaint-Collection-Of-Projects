@@ -1,2 +1,7 @@
 ./DOOM\ Agent/train/model_basic_1/*.zip
 ./DOOM\ Agent/train/*
+
+**/__pycache__/
+*.svg
+*.tex
+*.mp4
