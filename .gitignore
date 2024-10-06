@@ -5,3 +5,6 @@
 *.svg
 *.tex
 *.mp4
+
+*.vcd
+*.vvp
