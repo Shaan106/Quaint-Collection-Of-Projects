@@ -1,0 +1,94 @@
+.game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.game-info {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.unit-buttons {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.unit-button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.2s;
+}
+
+.unit-button.runner {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.unit-button.scout {
+    background-color: #2196F3;
+    color: white;
+}
+
+.unit-button.sniper {
+    background-color: #f44336;
+    color: white;
+}
+
+.unit-button.selected {
+    transform: scale(1.1);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.board {
+    display: grid;
+    gap: 1px;
+    background-color: #333;
+    padding: 1px;
+    border: 2px solid #333;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.cell:hover {
+    background-color: #f0f0f0;
+}
+
+.cell.blue {
+    background-color: #add8e6;
+}
+
+.cell.red {
+    background-color: #ffb6c1;
+}
+
+.cell.selected {
+    background-color: #ffff00;
+}
+
+.cell.valid-placement {
+    background-color: #e6ffe6;
+}
+
+.cell.valid-placement:hover {
+    background-color: #ccffcc;
+}
+
+.piece {
+    font-weight: bold;
+    font-size: 1.2em;
+} 
